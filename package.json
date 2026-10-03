@@ -1,6 +1,6 @@
 {
   "name": "blushnbloomm-owner-portal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Exclusive Owner Studio Portal for Bloom&blush Boutique Gifting & Floral Studio",
   "scripts": {
     "dev": "node server.js",
