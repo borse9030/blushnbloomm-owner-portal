@@ -1,0 +1,18 @@
+﻿{
+  "name": "blushnbloomm-owner-portal",
+  "version": "1.0.0",
+  "description": "Exclusive Owner Studio Portal for Bloom&blush Boutique Gifting & Floral Studio (Siddhi Kokate)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "bloom-and-blush",
+    "owner-portal",
+    "boutique-cms",
+    "admin-dashboard"
+  ],
+  "author": "Bhavesh Borse",
+  "license": "ISC"
+}
