@@ -1,16 +1,17 @@
 {
-  "name": "blushnbloomm-owner-portal",
-  "version": "1.0.1",
-  "description": "Exclusive Owner Studio Portal for Bloom&blush Boutique Gifting & Floral Studio",
+  "name": "blushnbloomm",
+  "version": "1.0.2",
+  "description": "Bloom&blush Boutique Gifting & Floral Studio Showcase and Owner Portal",
   "scripts": {
     "dev": "node server.js",
     "serve": "node server.js"
   },
   "keywords": [
-    "bloom-and-blush",
-    "owner-portal",
-    "boutique-cms"
+    "blushnbloomm",
+    "boutique",
+    "gifting",
+    "floral"
   ],
-  "author": "Bhavesh Borse",
-  "license": "ISC"
+  "author": "Siddhi Kokate",
+  "license": "MIT"
 }
